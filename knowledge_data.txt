@@ -1,0 +1,92 @@
+---- SmartHome Hub X1 METADATA
+
+Manufacturer: SmartHome Solutions
+
+Category: Smart Home Hub
+
+Wi-Fi Compatibility: 2.4GHz only
+
+Key Features:
+
+Voice control integration
+Mobile app control
+Compatible with 100+ smart devices
+Energy monitoring
+
+---- SmartHome Hub X1 Wi-Fi Connection Issues:
+
+Ensure your smartphone is connected to a 2.4GHz Wi-Fi network.
+Locate the reset pinhole on the back of the device.
+Use a paperclip to press and hold the reset button for 10 seconds until the LED flashes blue.
+Open the SmartHome app and select 'Add New Device'.
+Choose 'SmartHome Hub X1' from the list.
+Enter your Wi-Fi password when prompted.
+Wait for the connection process to complete (LED will turn solid green when successful).
+
+---- SmartHome Hub X1 Device Not Responding:
+
+Check if the power cable is securely connected.
+Verify that your Wi-Fi network is functioning properly.
+Restart the hub by unplugging it for 30 seconds, then plugging it back in.
+If issues persist, perform a factory reset using the pinhole button.
+
+---- ConnectTech METADATA
+
+Category: Smart Home Hub
+
+Wi-Fi Compatibility: Dual-band (2.4GHz and 5GHz)
+
+Key Features:
+
+Alexa and Google Assistant integration
+Z-Wave and Zigbee compatible
+IFTTT support
+Advanced automation rules
+
+---- ConnectTech Wi-Fi Connection Issues:
+
+Ensure your smartphone is connected to your home Wi-Fi network.
+Press and hold the 'Connect' button on top of the device for 5 seconds until the LED blinks white.
+Open the ConnectHome app and tap 'Add Device'.
+Select 'ConnectHome Central 2000' from the list.
+Choose your preferred Wi-Fi network (2.4GHz or 5GHz) and enter the password.
+Wait for the connection process to complete (LED will turn solid blue when successful).
+
+---- ConnectTech Device Pairing Issues:
+
+Put your smart device into pairing mode (refer to device manual).
+In the ConnectHome app, select 'Add Device' and choose the device type.
+Follow the in-app instructions for your specific device.
+If pairing fails, move the device closer to the hub and try again.
+For stubborn devices, try resetting them to factory settings before pairing.
+
+---- SyncTech Solutions METADATA
+
+Category: Smart Home Hub
+
+Wi-Fi Compatibility: 2.4GHz only
+
+Key Features:
+
+Local processing for faster response
+Customizable automation rules
+Open API for developers
+Energy usage insights
+
+---- SyncTech Solutions Wi-Fi Connection Issues:
+
+Connect your smartphone to your 2.4GHz Wi-Fi network.
+Power on the HomeSync Controller 500.
+Wait for the LED to blink green, indicating it's ready to connect.
+Open the HomeSync app and tap the '+' icon.
+Select 'Add Hub' and choose 'HomeSync Controller 500'.
+Follow the on-screen instructions to enter your Wi-Fi credentials.
+The LED will turn solid green once successfully connected.
+
+---- SyncTech Solutions Automation Issues:
+
+Open the HomeSync app and go to the 'Automations' tab.
+Review each automation rule to ensure all devices are online.
+Check that trigger conditions and actions are correctly set.
+Try deleting problematic rules and recreating them.
+If issues persist, restart the hub by unplugging it for 10 seconds.
